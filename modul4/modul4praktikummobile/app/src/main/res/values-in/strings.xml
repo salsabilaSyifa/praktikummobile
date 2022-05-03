@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sports List</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="nav_header_title">Tema Olahraga</string>
+    <string name="nav_header_subtitle">Modul 4 Praktikum Mobile\nSalsabila Syifa</string>
+    <string name="action_settings">Pengaturan</string>
+
+    <string name="menu_home">Beranda</string>
+    <string name="menu_gallery">Daftar Olahraga</string>
+    <string name="menu_slideshow">Ajang Olahraga</string>
+    <string name="welcome">Selamat Datang di Aplikasi</string>
+
+    <string name="olahraga1">Sepak Bola</string>
+    <string name="olahraga2">Basket</string>
+    <string name="olahraga3">Football</string>
+    <string name="olahraga4">Lari</string>
+    <string name="olahraga5">Badminton</string>
+    <string name="olahraga6">Hoki Es</string>
+    <string name="olahraga7">Renang</string>
+    <string name="olahraga8">Seluncur Es</string>
+    <string name="olahraga9">Senam Aerobik</string>
+    <string name="olahraga10">Senam Lantai</string>
+
+    <string name="competition1">Olimpiade</string>
+    <string name="competition2">Pesta Olahraga Asia</string>
+    <string name="competition3">Pesta Olahraga Asia Tenggara</string>
+
+    <string name="item_home">Beranda</string>
+    <string name="item_sports">Daftar Olahraga</string>
+    <string name="item_competition">Ajang Olahraga</string>
+    <string name="item_bola">Daftar Bola</string>
+
+    <string name="toast">Anda Mengklik item no. </string>
+
+    <string name="detail_name" translatable="false">subject\'s name</string>
+
+    <string name="detail_lecturer_s_label">Dosen Pengajar :</string>
+    <string name="detail_credits_label">SKS :</string>
+    <string name="detail_schedule_label">Jadwal</string>
+
+    <string name="bola1">Bola Sepak</string>
+    <string name="bola2">Bola Basket</string>
+    <string name="bola3">Bola Rugby</string>
+    <string name="bola4">Bola Takraw</string>
+
+</resources>
