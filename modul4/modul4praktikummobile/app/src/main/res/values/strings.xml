@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Sports List</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="nav_header_title">Sports Theme</string>
+    <string name="nav_header_subtitle">Module 4 Practicum Mobile\nSalsabila Syifa</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Sports List</string>
+    <string name="menu_slideshow">Sports Competitions</string>
+    <string name="welcome">Welcome to</string>
+
+    <string name="olahraga1">Soccer</string>
+    <string name="olahraga2">Basket</string>
+    <string name="olahraga3">Football</string>
+    <string name="olahraga4">Marathon</string>
+    <string name="olahraga5">Badminton</string>
+    <string name="olahraga6">Ice Hockey</string>
+    <string name="olahraga7">Swim</string>
+    <string name="olahraga8">Ice Skating</string>
+    <string name="olahraga9">Aerobic Gymnastics</string>
+    <string name="olahraga10">Floor Gymnastics</string>
+
+    <string name="competition1">Olympic</string>
+    <string name="competition2">Asian Games</string>
+    <string name="competition3">SEA Games</string>
+
+    <string name="item_home">Home</string>
+    <string name="item_sports">Sports List</string>
+    <string name="item_competition">Sports Competitions</string>
+    <string name="item_bola">Ball List</string>
+    <string name="toast">You Click item number. </string>
+
+    <string name="detail_name" translatable="false">subject\'s name</string>
+
+    <string name="detail_lecturer_s_label">Lecturer\'s Name :</string>
+    <string name="detail_credits_label">Credits :</string>
+    <string name="detail_schedule_label">Schedule :</string>
+
+    <string name="bola1">Soccer Ball</string>
+    <string name="bola2">Basket Ball</string>
+    <string name="bola3">Rugby Ball</string>
+    <string name="bola4">Takraw Ball</string>
+
+
+</resources>
