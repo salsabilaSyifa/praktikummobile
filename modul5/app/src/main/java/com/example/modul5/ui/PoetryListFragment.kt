@@ -31,7 +31,7 @@ class PoetryListFragment : Fragment(){
                 .navigate(R.id.action_poetryListFragment_to_poetryDetailFragment)
         })
 
-        (activity as AppCompatActivity).supportActionBar?.title = "List puisi"
+        (activity as AppCompatActivity).supportActionBar?.title = "Karya Puisi William Shakespeare"
 
         binding.recyclerView.addItemDecoration(MaterialDividerItemDecoration(requireContext(), LinearLayoutManager.VERTICAL))
 
